@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/zhamdouc?1337Badge=off&UM6P=off" alt="zhamdouc's 42 stats" /></a>
-[![<zhamdouc>'s 42 stats](https://badge.mediaplus.ma/darkblue/<zhamdouc>)](https://github.com/zhamdouc/badge42)
+[![zhamdouc's 42 stats](https://badge.mediaplus.ma/darkblue/zhamdouc)](https://github.com/zhamdouc/badge42)
 Welcome to my GitHub profile !
 
 I'm a 42 student in Paris !
