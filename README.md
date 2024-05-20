@@ -5,8 +5,8 @@ Welcome to my GitHub profile !
 
 I'm a 42 student in Paris !
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://katherineoelsner.com/](https://github.com/H-Zak/ft_transcendence))
-ft_transcendence | is a comprehensive web project from the 42 Paris school, realized through the collaboration of Melodie Shahrvari, Perrine Gros, and Zakariya Hamdouchi, as outlined in the project description (see en.subject.pdf).
+[![ft_transcendence](https://img.shields.io/badge/just%20the%20message-8A2BE2)]([https://katherineoelsner.com/](https://github.com/H-Zak/ft_transcendence))
+ | is a comprehensive web project from the 42 Paris school, realized through the collaboration of Melodie Shahrvari, Perrine Gros, and Zakariya Hamdouchi, as outlined in the project description (see en.subject.pdf).
 
 This project is engineered using NestJS for the backend and React (TypeScript) for the frontend, crafting a fluid, single-page application that performs flawlessly across a variety of modern web browsers. It incorporates secure OAuth login mechanisms, a dynamic real-time chat feature, and an engaging live Pong game complete with matchmaking capabilities, ensuring an interactive and competitive online environment.
 
