@@ -18,7 +18,7 @@ Created an IRC server following Internet RFC standards using C++. The project in
 Implemented 3D game maps with C programming and ray casting technique, replicating the environment of Wolfenstein 3D game. Achieved immersive and dynamic graphics by seamlessly rendering walls, textures, and obstacles.
 🛠️ • C
 
-[![Philosophers](https://img.shields.io/badge/cub3d%20-00755E)](https://github.com/H-Zak/philo_42) | Multithreaded Solution to the Dining Philosophers Problem 🥢
+[![Philosophers](https://img.shields.io/badge/Philosophers%20-00755E)](https://github.com/H-Zak/philo_42) | Multithreaded Solution to the Dining Philosophers Problem 🥢
 Resolved resource allocation challenges in concurrent programming through multithreaded techniques in C, creating a deadlock-free program where multiple threads, representing philosophers, share limited resources (chopsticks).
 🛠️ • C
 <!--
