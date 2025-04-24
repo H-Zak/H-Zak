@@ -6,9 +6,13 @@ I'm a 42 student in Paris !
 
 LocalSumm – Local CLI Tool for Summarizing Multimedia Content (100% Offline)
 LocalSumm is an open-source command-line application that generates structured short or detailed summaries in French from text, local audio/video files, or YouTube URLs — fully offline.
+
     🎙️ Transcription powered by Whisper
+    
     🦙 Summarization with LLMs (LLaMA 3, Mistral...) via Ollama
+    
     🧩 Long text handling using a Map-Reduce approach
+    
     ⚙️ Clean CLI interface (Typer), modular architecture, .env-based configuration
 
 [![ft_transcendence](https://img.shields.io/badge/ft__transcende%20-00755E)](https://github.com/H-Zak/ft_transcendence)
