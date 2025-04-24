@@ -3,6 +3,7 @@
 Welcome to my GitHub profile !
 
 I'm a 42 student in Paris !
+
 🧠 LocalSumm – Résumeur de contenu multimédia en local (100 % offline)
 LocalSumm est une application en ligne de commande open source qui génère des résumés courts ou détaillés en français à partir de textes, fichiers audio/vidéo ou URLs YouTube, entièrement en local.
 
