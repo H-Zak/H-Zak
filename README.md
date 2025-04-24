@@ -8,13 +8,12 @@ I'm a 42 student in Paris !
 LocalSumm est une application en ligne de commande open source qui génère des résumés courts ou détaillés en français à partir de textes, fichiers audio/vidéo ou URLs YouTube, entièrement en local.
 
 🎙️ Transcription via Whisper
+
 🦙 Résumé via LLMs (LLaMA 3, Mistral...) avec Ollama
+
 🧩 Gestion des longs textes avec Map-Reduce
+
 ⚙️ Interface CLI propre (Typer), code modulaire, configurable via .env
-
-🔒 Conçu pour être simple, privé, personnalisable et extensible.
-
-📁 [Code source organisé, bonnes pratiques Python, .pyproject.toml, logging, typage, etc.]
 
 [![ft_transcendence](https://img.shields.io/badge/ft__transcende%20-00755E)](https://github.com/H-Zak/ft_transcendence)
  | is a comprehensive web project from the 42 Paris school, realized through the collaboration of Melodie Shahrvari, Perrine Gros, and Zakariya Hamdouchi, as outlined in the project description (see en.subject.pdf).
